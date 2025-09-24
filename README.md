@@ -2,16 +2,12 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Basma Ebeid`
+- **CCID:** `bebeid`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+https://github.com/CMPUT301F25bingus/bingus0.git
 
 ## Verbal Collaboration
 
-| Student Name | CCID     |
-| ------------ | -------- |
-| `<example1>` | `<CCID>` |
-| `<example2>` | `<CCID>` |
